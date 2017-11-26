@@ -1,0 +1,442 @@
+html body {
+    margin: 0;
+    padding: 0;
+    font-family: "Swis721 BT", sans-serif; /* Font needs to be added in before published */
+    background: white;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Home Page */
+
+#a1 {
+    text-decoration: none;
+    color: black;
+
+}
+
+#chapter {
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+#info {
+    font-size: 13px;
+}
+
+sup {
+    font-size: 12px;
+    color: black;
+    line-height: 0;
+    vertical-align: super;
+    font-family: "Swis721 BT", sans-serif;
+}
+
+h1 {
+    color: #E52828;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 48px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.line {
+    margin-top: 24px;
+    margin-right: 100px;
+    height: 6px;
+    width: 40%;
+    background-color: #E52828;
+    float: right;
+}
+
+img {
+    max-width: 100%;
+    padding-top: 35px;
+}
+
+#caption1 {
+    font-size: 14px;
+    line-height: 19px;
+    padding-top: 0px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+#list {
+    font-family: 'Halant', serif; /* Google Fonts */
+    color: #E52828;
+}
+    
+#family {
+    padding-top: 0;
+    max-width: 100%;
+}
+
+hr {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: #D9D9D9; height: 1px; border: 0; 
+    align-content: center;
+    width: 81%;
+}
+
+#quote1 {
+    font-family: 'Halant', serif; /* Google Fonts */
+    color: black;
+    font-size: 25pt;
+    line-height: 30pt;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 70px;
+    padding-bottom: 
+    color:black;
+}
+
+#quote2 {
+    font-family: 'Halant', serif; /* Google Fonts */
+    color: white;
+    font-size: 25pt;
+    line-height: 30pt;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 160px;
+    color:black;
+}
+
+h5 {
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.hoverimg1 {
+    margin-left: 60px;
+}
+
+.hideimg {
+    display: none;
+}
+
+.hoverimg2 {
+    margin-left: 60px;
+    margin-top: 300px;
+}
+
+
+.hover2: hover {
+    text-decoration: underline;
+}
+
+.txthover:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+/* Info Page */
+
+.body2{
+    background-color: #1767DD;
+    overflow-x: hidden;
+}
+
+#chapter2 {
+    text-decoration: underline;
+    font-size: 13px;
+    color: white;
+}
+
+#info2 {
+    font-size: 13px;
+    color: white;
+}
+
+#a2 {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    font-size: 35px;
+    font-weight: 100;
+    color: #212121;
+}
+
+#img2 {
+    max-width: 100%;
+    padding-bottom: 30px;
+}
+
+
+
+.footer {
+    color:#212121;
+    font-size: 13px;
+}
+
+a:visited {
+    color: #212121;
+}
+
+a {
+    text-decoration: none;
+}
+/* Tablet Styles */
+
+@media (min-width: 48em) and (max-width: 75em) {
+    
+/* Home Page */
+    
+ h1 {
+    font-size: 100px;
+    line-height: 95px;
+    margin-top: 140px;
+}
+.line {
+    margin-top: 45px;
+    margin-right: 140px;
+    height: 9px;
+    width: 38%;
+}
+    
+#family {
+    padding-top: 0px;
+}
+
+    
+#quote1 {
+    font-size: 30pt;
+    line-height: 35pt;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color:black;
+}
+
+#yellow1 {
+    background-color: #FFE600;
+    height: 800px;
+    width: 100%;
+}
+
+#yellow2 {
+    background-color: #FFE600;
+    height: 800px;
+    Width: 100%;
+}
+    
+#quote2 {
+    font-size: 30pt;
+    line-height: 35pt;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 320px;
+    color:black;
+}
+    
+/* Info Page */
+
+h3 {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#img2 {
+    max-width: 100%;
+    padding-left: 65px;
+    padding-bottom: 30px;    
+}
+    
+}
+
+/* Desktop Styles */
+
+@media (min-width: 75em) {
+    
+/* Home Page */
+
+#chapter {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+#info {
+    font-size: 20px;
+}
+
+    
+h1 {
+    font-size: 180px;
+    line-height: 180px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+} 
+    
+.line {
+    margin-top: 82px;
+    margin-right: 450px;
+    height: 12px;
+    width: 30%;
+}
+    
+#intro {
+    font-size: 27px;
+    line-height: 34px;
+    padding-bottom: 80px;
+    margin-top: -35px;
+    }    
+    
+h2 {
+    font-size: 34px;
+    margin-top: 9px;
+}
+
+#group {
+    margin-bottom:65px;
+        }    
+    
+.caption1 {
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: -50px;
+    margin-bottom: 100px;
+}
+    
+#list1 {
+    font-family: 'Halant', serif;
+    color: #E52828;
+    padding-bottom: 60px;
+    }
+
+#section2 {
+        padding-bottom: 60px;
+}
+    
+    
+ #list2 {
+    font-family: 'Halant', serif; /* Google Fonts */
+    color: #E52828;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+    
+#family {
+    max-width: 100%;
+    margin-left: 90px;     
+    padding-top: 25px;
+}
+
+.caption2 {
+    font-size: 14px;
+    line-height: 19px;
+    padding-bottom: 200px;
+
+}
+    
+#quote1 {
+    font-size: 37pt;
+    line-height: 44pt;
+    padding-top: 200px;
+    padding-bottom: 190px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: center;
+    color:black; /* #1767DD for blue */
+
+ }
+    
+#yellow1 {
+    background-color: #FFE600;
+    height: 850px;
+    margin-bottom: 95px;
+    margin-top: 210px;
+}
+        
+    
+#farm {
+    padding-top: 55px;
+    max-width: 100%;
+    padding-bottom: 70px;
+}
+
+h4 {
+        font-size: 20px;
+        margin-top: -10px;
+}
+
+#yellow2 {
+    background-color: #FFE600;
+    height: 850px;
+    Width: 100%;
+    margin-bottom: 95px;
+    
+}
+    
+#hr1 {
+    margin-bottom: -5px;
+    }    
+    
+#quote2 {
+    color: black;
+    font-size: 52pt;
+    line-height: 58pt;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 315px;
+}
+    
+h5 {
+        font-size: 13px;
+}
+
+/* Info Page */
+    
+#chapter2 {
+    text-decoration: underline;
+    font-size: 20px;
+    color:white;
+}
+
+#info2 {
+    font-size: 20px;
+    color: white;
+}
+
+h3 {
+    font-size: 60px;
+    font-weight: 100;
+}
+
+#img2 {
+    max-width: 90%;
+    padding-left: 110px;
+    padding-bottom: 60px; 
+    margin-top: 15px;
+}
+    
+
+.footer {
+    font-size: 18px;
+    color: #212121;
+} 
+    
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    font-size: 20px;
+    color: black;
+    }
+    
+}
