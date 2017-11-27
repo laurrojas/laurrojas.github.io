@@ -34,8 +34,8 @@ sup {
 h1 {
     color: #E52828;
     font-weight: bold;
-    font-size: 55px;
-    line-height: 55px;
+    font-size: 350%;
+    line-height: 96%;
 }
 
 #intro {
@@ -54,7 +54,7 @@ p {
     margin-top: 6%;
     margin-right: 33%;
     height: 7px;
-    width: 120px;
+    width: 30%;
     background-color: #E52828;
     float: right;
 }
@@ -239,9 +239,9 @@ a {
 /* Home Page */
     
  h1 {
-    font-size: 100px;
-    line-height: 95px;
-    margin-top: 140px;
+    font-size: 650%;
+    line-height: 93%;
+
 }
     
 .line {
@@ -317,15 +317,15 @@ h3 {
 
     
 h1 {
-    font-size: 180px;
-    line-height: 180px;
+    font-size: 1000%;
     margin-top: 100px;
-    margin-bottom: 60px;
+    margin-bottom: 90px;
 } 
     
 .line {
-    height: 13px;
-    width: 420px;
+    height: 14px;
+    width: 37%;
+    margin-top: 5%
 }
     
 #intro {
