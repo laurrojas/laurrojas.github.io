@@ -245,7 +245,6 @@ a {
 }
     
 .line {
-    margin-top: 10%;
     margin-right: 25%;
     height: 9px;
     width: 38%;
@@ -325,8 +324,6 @@ h1 {
 } 
     
 .line {
-    margin-top: 10%;
-    margin-right: 25%;
     height: 12px;
     width: 30%;
 }
