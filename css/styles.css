@@ -12,7 +12,6 @@ html body {
 #a1 {
     text-decoration: none;
     color: black;
-
 }
 
 #chapter {
@@ -23,7 +22,6 @@ html body {
 #info {
     font-size: 13px;
 }
-
 
 sup {
     font-size: 12px;
@@ -52,7 +50,7 @@ p {
     height: 6px;
     width: 40%;
     background-color: #E52828;
-    float: right;
+    position: fixed;
 }
 
 img {
@@ -179,7 +177,7 @@ a {
 
 /* Tablet Styles */
 
-@media (max-width: 75em) {
+@media (min-width: 48em) and (max-width: 75em) {
     
 /* Home Page */
     
@@ -292,7 +290,7 @@ h2 {
 #group {
     margin-top: 50px;
     margin-bottom:65px;
-        }    
+}    
     
 .caption1 {
     font-size: 14px;
@@ -306,7 +304,7 @@ h2 {
     color: #E52828;
     padding-bottom: 70px;
     padding-top: 50px;
-    }
+}
 
 #section2 {
         padding-bottom: 60px;
