@@ -164,14 +164,13 @@ h3 {
 }
 
 
-
 .footer {
     color:#212121;
     font-size: 13px;
 }
 
 a:visited {
-    color: #212121;
+    color: black;
 }
 
 a {
@@ -244,8 +243,6 @@ h3 {
     padding-bottom: 30px;    
 }
     
-}
-
 /* Desktop Styles */
 
 @media (min-width: 75em) {
@@ -408,12 +405,12 @@ display: none;
 #chapter2 {
     text-decoration: underline;
     font-size: 18px;
-    color:white;
+    color:black;
 }
 
 #info2 {
     font-size: 18px;
-    color: white;
+    color: black;
 }
 
 h3 {
@@ -431,7 +428,7 @@ h3 {
 
 .footer {
     font-size: 18px;
-    color: #212121;
+    color: black;
 } 
     
 a {
