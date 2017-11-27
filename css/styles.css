@@ -50,7 +50,7 @@ p {
     height: 6px;
     width: 40%;
     background-color: #E52828;
-    position: fixed;
+    float: right;
 }
 
 img {
