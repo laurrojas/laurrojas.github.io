@@ -179,7 +179,7 @@ a {
 
 /* Tablet Styles */
 
-@media (min-width: 48em) and (max-width: 75em) {
+@media max-width: 75em {
     
 /* Home Page */
     
