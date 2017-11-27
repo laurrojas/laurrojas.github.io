@@ -176,6 +176,7 @@ a:visited {
 a {
     text-decoration: none;
 }
+
 /* Tablet Styles */
 
 @media (min-width: 48em) and (max-width: 75em) {
@@ -187,6 +188,7 @@ a {
     line-height: 95px;
     margin-top: 140px;
 }
+    
 .line {
     margin-top: 45px;
     margin-right: 140px;
@@ -197,8 +199,7 @@ a {
 #family {
     padding-top: 0px;
 }
-
-    
+ 
 #quote1 {
     font-size: 30pt;
     line-height: 35pt;
@@ -241,6 +242,8 @@ h3 {
     max-width: 100%;
     padding-left: 65px;
     padding-bottom: 30px;    
+}
+    
 }
     
 /* Desktop Styles */
