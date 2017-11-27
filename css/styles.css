@@ -117,19 +117,6 @@ h5 {
     font-weight: 100;
 }
 
-.hoverimg1 {
-    margin-left: 60px;
-}
-
-.hideimg {
-    display: none;
-}
-
-.hoverimg2 {
-    margin-left: 60px;
-    margin-top: 300px;
-}
-
 
 .hover2: hover {
     text-decoration: underline;
@@ -361,12 +348,6 @@ h2 {
     margin-top: 210px;
 }
         
-    
-#farm {
-    padding-top: 55px;
-    max-width: 100%;
-    padding-bottom: 70px;
-}
 
 h4 {
         font-size: 20px;
@@ -397,6 +378,24 @@ h4 {
 h5 {
         font-size: 13px;
 }
+    
+.hoverimg1 {
+    margin-left: 60px;
+}
+
+.hideimg {
+display: none;
+ 
+}
+
+.hoverimg2 {
+    margin-left: 60px;
+    margin-top: 300px;
+}
+    
+
+
+
 
 /* Info Page */
     
