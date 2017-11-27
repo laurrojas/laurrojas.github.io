@@ -131,7 +131,7 @@ h5 {
 /* Info Page */
 
 .body2{
-    background-color: #1767DD;
+    background-color: #FFE600; /* #1767DD */
     overflow-x: hidden;
 }
 
@@ -393,8 +393,6 @@ display: none;
     margin-top: 300px;
 }
     
-
-
 
 
 /* Info Page */
