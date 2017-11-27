@@ -325,8 +325,7 @@ h2 {
 .caption2 {
     font-size: 14px;
     line-height: 19px;
-    padding-bottom: 200px;
-
+    margin-bottom: 200px;
 }
     
 #quote1 {
@@ -384,12 +383,18 @@ h5 {
 }
 
 .hideimg {
- display: none;
+display: none;
 }
 
 .hoverimg2 {
     margin-left: 60px;
     margin-top: 300px;
+}
+
+.hoverimg3 {
+    max-width: 95%;
+    margin-bottom: 40px;
+
 }
  
     
