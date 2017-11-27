@@ -90,6 +90,7 @@ hr {
 
 #quote1 {
     font-family: 'Halant', serif; /* Google Fonts */
+    color: black;
     font-size: 25pt;
     line-height: 30pt;
     text-align: center;
@@ -102,6 +103,7 @@ hr {
 
 #quote2 {
     font-family: 'Halant', serif; /* Google Fonts */
+    color: white;
     font-size: 25pt;
     line-height: 30pt;
     text-align: center;
@@ -110,15 +112,6 @@ hr {
     padding-top: 160px;
     color:black;
 }
-
-#block1 {
-    background-color: #1767DD;
-}
-
-#block2 {
-    background-color: #1767DD;
-}
-
 
 h5 {
     font-size: 13px;
@@ -214,16 +207,16 @@ a {
     padding-top: 150px;
     padding-left: 50px;
     padding-right: 50px;
-    color:black;
+    color:white;
 }
 
-#block1 {
+#yellow1 {
     background-color: #1767DD;
     height: 800px;
     width: 100%;
 }
 
-#block2 {
+#yellow2 {
     background-color: #1767DD;
     height: 800px;
     Width: 100%;
@@ -235,7 +228,7 @@ a {
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 320px;
-    color:black;
+    color:white;
 }
     
 /* Info Page */
@@ -348,10 +341,11 @@ h2 {
     padding-left: 120px;
     padding-right: 120px;
     text-align: center;
+    color:white; /* #1767DD for blue */
 
  }
     
-#block1 {
+#yellow1 {
     background-color: #1767DD;
     height: 850px;
     margin-bottom: 95px;
@@ -364,7 +358,7 @@ h4 {
         margin-top: -10px;
 }
 
-#block2 {
+#yellow2 {
     background-color: #1767DD;
     height: 850px;
     Width: 100%;
@@ -377,6 +371,7 @@ h4 {
     }    
     
 #quote2 {
+    color: white;
     font-size: 52pt;
     line-height: 58pt;
     padding-left: 135px;
