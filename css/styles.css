@@ -34,14 +34,14 @@ sup {
 h1 {
     color: #E52828;
     font-weight: bold;
-    font-size: 80px;
-    line-height: 88px;
+    font-size: 55px;
+    line-height: 55px;
 }
 
 #intro {
     font-size: 23px;
     line-height: 31px;
-    }    
+}    
     
 
 p {
@@ -51,10 +51,10 @@ p {
 }
 
 .line {
-    margin-top: 42px;
-    margin-right: 330px;
+    margin-top: 6%;
+    margin-right: 33%;
     height: 7px;
-    width: 25%;
+    width: 30%;
     background-color: #E52828;
     float: right;
 }
@@ -245,8 +245,8 @@ a {
 }
     
 .line {
-    margin-top: 45px;
-    margin-right: 140px;
+    margin-top: 10%;
+    margin-right: 25%;
     height: 9px;
     width: 38%;
 }
@@ -325,8 +325,8 @@ h1 {
 } 
     
 .line {
-    margin-top: 82px;
-    margin-right: 450px;
+    margin-top: 10%;
+    margin-right: 25%;
     height: 12px;
     width: 30%;
 }
