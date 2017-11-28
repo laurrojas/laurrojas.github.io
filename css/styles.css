@@ -261,7 +261,7 @@ a {
 /* Home Page */
     
  h1 {
-    font-size: 700%;
+    font-size: 660%;
     line-height: 93%;
 
 }
@@ -271,6 +271,12 @@ a {
     height: 9px;
     width: 37%;
 }
+    
+p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
     
 #group{
     max-width: 80%
