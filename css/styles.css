@@ -112,7 +112,7 @@ h2 {
 
 #yellow1 {
     background-color: #1767DD;
-    height: 535px;
+    height: 1035px;
     width: 100%;
 }
 
@@ -443,6 +443,7 @@ h4 {
     
 #hr1 {
     margin-bottom: 100px;
+    margin-top: 15px;
     }    
     
 #quote2 {
@@ -459,11 +460,11 @@ h5 {
 }
     
 .hoverimg1 {
-    margin-left: 60px;
+    margin-left: 120px;
 }
 
 .hideimg {
-display: none;
+    display: none;
 }
 
 .hoverimg2 {
