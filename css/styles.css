@@ -490,11 +490,12 @@ h5 {
 
 .hideimg {
     display: none;
+   
 }
 
 .hoverimg2 {
-    margin-left: 60px;
     margin-top: 300px;
+    max-width: 110%;
 }
 
 .hoverimg3 {
