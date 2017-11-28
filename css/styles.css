@@ -16,15 +16,15 @@ html body {
 
 #chapter {
     text-decoration: underline;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #info {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 sup {
-    font-size: 13px;
+    font-size: 20px;
     color: black;
     line-height: 0;
     vertical-align: super;
@@ -34,7 +34,7 @@ sup {
 h1 {
     color: #E52828;
     font-weight: bold;
-    font-size: 600%;
+    font-size: 700%;
     line-height: 96%;
 }
 
@@ -194,7 +194,6 @@ h5 {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 35px;
-
 }
 
 a {
@@ -205,7 +204,7 @@ a {
 a:visited {
     font-size: 20px;
     color: black;
-    }
+}
 
 /* Info Page */
 
@@ -262,7 +261,7 @@ a {
 /* Home Page */
     
  h1 {
-    font-size: 650%;
+    font-size: 700%;
     line-height: 93%;
 
 }
@@ -381,7 +380,7 @@ h1 {
     line-height: 32px;
     padding-bottom: 80px;
     margin-top: -35px;
-    margin-left: -95px;
+    margin-left: -40px;
     }    
     
 h2 {
@@ -415,7 +414,7 @@ h2 {
         
  #list2 {
     font-family: 'Halant', serif; /* Google Fonts */
-    color: #E52828;
+     color: #E52828;
      padding-top: 20px;
      padding-bottom: 20px;
 }
