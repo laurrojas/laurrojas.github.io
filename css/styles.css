@@ -163,7 +163,6 @@ h5 {
     font-weight: 100;
 }
 
-
 .hover2: hover {
     text-decoration: underline;
 }
@@ -256,7 +255,7 @@ a {
 
 /* Tablet Styles */
 
-@media (min-width: 37.438em) and (max-width: 75em) {
+@media (min-width: 39.625em) and (max-width: 75em) {
     
 /* Home Page */
     
