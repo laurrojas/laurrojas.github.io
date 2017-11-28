@@ -16,11 +16,11 @@ html body {
 
 #chapter {
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #info {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 sup {
@@ -39,8 +39,8 @@ h1 {
 }
 
 #intro {
-    font-size: 23px;
-    line-height: 31px;
+    font-size: 25px;
+    line-height: 32px;
 }    
     
 #group {
@@ -51,7 +51,7 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 25px;
 
 }
@@ -71,8 +71,8 @@ img {
 }
 
 .caption1 {
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 20px;
+    line-height: 25px;
     margin-bottom: -80px;
 }
 
@@ -101,8 +101,8 @@ h2 {
 }
 
 .caption2 {
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 20px;
+    line-height: 25px;
     margin-bottom: 30px;
 }
 
@@ -112,7 +112,7 @@ h2 {
 
 #yellow1 {
     background-color: #1767DD;
-    height: 1035px;
+    height: 96%;
     width: 100%;
 }
 
@@ -121,7 +121,6 @@ h2 {
     height: 450px;
     Width: 100%;
 }
-
 
 hr {
     margin-top: 50px;
@@ -147,16 +146,16 @@ hr {
 #quote2 {
     font-family: 'Halant', serif; /* Google Fonts */
     color: white;
-    font-size: 25pt;
-    line-height: 30pt;
+    font-size: 30pt;
+    line-height: 35pt;
     text-align: center;
     padding-left: 60px;
     padding-right: 60px;
-    padding-top: 170px;
+    padding-top: 150px;
 }
 
 h5 {
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 100;
 }
 
@@ -206,12 +205,12 @@ h5 {
 
 #chapter2 {
     text-decoration: underline;
-    font-size: 13px;
+    font-size: 20px;
     color: black;
 }
 
 #info2 {
-    font-size: 13px;
+    font-size: 20px;
     color: black;
 }
 
@@ -221,7 +220,7 @@ h5 {
 }
 
 h3 {
-    font-size: 35px;
+    font-size: 40px;
     font-weight: 100;
     color: black;
 }
@@ -280,7 +279,7 @@ a {
     font-size: 30pt;
     line-height: 35pt;
     text-align: center;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left: 50px;
     padding-right: 50px;
     color:white;
@@ -288,7 +287,7 @@ a {
 
 #yellow1 {
     background-color: #1767DD;
-    height: 800px;
+    height: 100%;
     width: 100%;
 }
 
@@ -305,6 +304,22 @@ a {
     padding-right: 50px;
     padding-top: 320px;
     color:white;
+}
+    
+.hoverimg1 {
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.hoverimg2 {
+    margin-left: 60px;
+    margin-top: 300px;
+}
+
+.hoverimg3 {
+    max-width: 95%;
+    margin-bottom: 40px;
+
 }
     
 /* Info Page */
@@ -386,8 +401,7 @@ h2 {
 #section2 {
         padding-bottom: 60px;
 }
-    
-    
+        
  #list2 {
     font-family: 'Halant', serif; /* Google Fonts */
     color: #E52828;
@@ -409,9 +423,9 @@ h2 {
 }
     
 #quote1 {
-    font-size: 37pt;
-    line-height: 44pt;
-    padding-top: 200px;
+    font-size: 36pt;
+    line-height: 43pt;
+    padding-top: 160px;
     padding-left: 120px;
     padding-right: 120px;
     text-align: center;
@@ -420,9 +434,9 @@ h2 {
     
 #yellow1 {
     background-color: #1767DD;
-    height: 850px;
+    height: 90%;
     margin-bottom: 100px;
-    margin-top: 210px;
+    margin-top: 90px;
 }    
 
 h4 {
