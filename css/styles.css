@@ -412,33 +412,29 @@ h2 {
     font-size: 37pt;
     line-height: 44pt;
     padding-top: 200px;
-    padding-bottom: 190px;
     padding-left: 120px;
     padding-right: 120px;
     text-align: center;
-    color:white; /* #1767DD for blue */
-
+    color:white; 
  }
     
 #yellow1 {
     background-color: #1767DD;
     height: 850px;
-    margin-bottom: 95px;
+    margin-bottom: 100px;
     margin-top: 210px;
-}
-        
+}    
 
 h4 {
-        font-size: 20px;
-        margin-top: -10px;
+    font-size: 20px;
+    margin-top: -10px;
 }
 
 #yellow2 {
     background-color: #1767DD;
     height: 850px;
     Width: 100%;
-    margin-bottom: 95px;
-    
+    margin-bottom: 9px;   
 }
     
 #hr1 {
@@ -456,7 +452,7 @@ h4 {
 }
     
 h5 {
-        font-size: 13px;
+    font-size: 13px;
 }
     
 .hoverimg1 {
