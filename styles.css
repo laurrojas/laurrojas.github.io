@@ -15,11 +15,16 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
     font-style: normal;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 
 body{
 	background: #FFFFFF;
 	font-family: 'lunchtype22-light', Helvetica, sans-serif;
-	letter-spacing: 0.4px;
+	letter-spacing: 1px;
 	color: #000000;
 	font-size: 30px;
 	align-items: center;
@@ -49,7 +54,7 @@ a{
 
 .serif a, .portfolio .serif, .portfolio-intro a{
 	font-family: 'Cormorant Garamond', serif;
-	font-size: 1.785vw;
+	font-size: 1.778vw;
 }
 
 .active-page{
@@ -64,7 +69,7 @@ a:hover{
 
 
 .secondary-font-size{
-	font-size: 0.79vw;
+	font-size: 0.83vw;
 }
 
 .container-home{
@@ -215,11 +220,11 @@ footer{
 	align-items: flex-end;
 	text-transform: uppercase;
 	flex-shrink: 0;
-	width: 38%;
+	width: 43%;
 }
 
 .socials{
-	line-height: 1.82vw;
+	line-height: 1.55vw;
 }
 
 /*Portfolio*/
@@ -464,12 +469,12 @@ body.info{
 	    /*padding-top: 50%;*/
 	    flex-wrap: wrap;
 	    text-align: center;
-	    color: black
+	    color: #367EF0;
 	    font-size: 17px;
 	}
 
 	footer a{
-		color: black;
+		color: #367EF0;
 	}
 
 	.info footer{
