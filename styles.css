@@ -603,5 +603,8 @@ body.info{
 		}
 	}
 
+.portfolio-center {
+    margin: 0 auto;
+}
 
 }
