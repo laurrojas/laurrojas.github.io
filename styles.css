@@ -54,7 +54,8 @@ a{
 
 .serif a, .portfolio .serif, .portfolio-intro a{
 	font-family: 'Cormorant Garamond', serif;
-	font-size: 1.778vw;
+	font-size: 1.920vw;
+    font-weight: 300;
 }
 
 .active-page{
@@ -239,6 +240,7 @@ div.mobile.grid{
 	margin: 0 auto;
 	padding-bottom: 5%;
 	font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
 	font-size: 1.5vw;
 }
 
